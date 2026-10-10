@@ -1,0 +1,5 @@
+This notebook focused on performing exploratory data analysis on the Titanic dataset using essential Python libraries like pandas and seaborn. 
+Throughout the session, I manipulated the dataset by grouping passengers by their ticket class and applying aggregation functions to calculate specific summary statistics. 
+I also transformed continuous age data into distinct categories, such as toddlers, young, adult, and senior—using custom binning functions. 
+From this practice, I learned how to efficiently clean, group, and categorize raw data using pandas tools. 
+Ultimately, these skills made it much easier to turn a large spreadsheet of numbers into clear, understandable insights about the passengers on board.
